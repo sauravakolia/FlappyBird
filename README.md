@@ -1,2 +1,2 @@
 # FlappyBird
-Flappy  bird game using AI
+AI play the Flappy bird
